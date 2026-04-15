@@ -1,4 +1,4 @@
-# 6b-me
+
 
 A beginner-friendly Express + MongoDB authentication API with:
 
